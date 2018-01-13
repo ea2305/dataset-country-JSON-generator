@@ -31,8 +31,8 @@ fs.writeFile("./dataset/full_country.json", JSON.stringify(country), function(er
     if(err)
       return console.log(err)
 
-    console.log("The file was saved!");
+    console.log("The file was saved 📔")
 })
 
 // show me :p
-console.log(country);
+console.log(country)
