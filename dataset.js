@@ -12,7 +12,8 @@ let countries = JSON.parse(fs.readFileSync('./countries.json','utf8')).countries
 let states    = JSON.parse(fs.readFileSync('./states.json','utf8')).states
 let cities    = JSON.parse(fs.readFileSync('./cities.json','utf8')).cities
 
-// Seleccionamos pais de busqueda
+// Select country to find
+// Yes, I'm mexican :p
 let search = 'Mexico'
 
 // get country
