@@ -1,0 +1,11 @@
+{
+  "name": "build-dataset",
+  "version": "1.0.0",
+  "description": "Build dataset",
+  "main": "dataset.js",
+  "scripts": {
+    "start": "node dataset.js"
+  },
+  "author": "Elihu A. Cruz <elihuacruz@gmail.com>",
+  "license": "MIT"
+}
