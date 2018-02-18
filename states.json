@@ -12172,17 +12172,12 @@
     },
     {
       "id": "2435",
-      "name": "Distrito Federal",
+      "name": "Ciudad de México",
       "country_id": "142"
     },
     {
       "id": "2436",
       "name": "Durango",
-      "country_id": "142"
-    },
-    {
-      "id": "2437",
-      "name": "Estado de Mexico",
       "country_id": "142"
     },
     {
@@ -12207,12 +12202,12 @@
     },
     {
       "id": "2442",
-      "name": "Mexico",
+      "name": "México",
       "country_id": "142"
     },
     {
       "id": "2443",
-      "name": "Michoacan",
+      "name": "Michoacán de Ocampo",
       "country_id": "142"
     },
     {
@@ -12227,7 +12222,7 @@
     },
     {
       "id": "2446",
-      "name": "Nuevo Leon",
+      "name": "Nuevo León",
       "country_id": "142"
     },
     {
@@ -12242,7 +12237,7 @@
     },
     {
       "id": "2449",
-      "name": "Queretaro",
+      "name": "Querétaro de Arteaga",
       "country_id": "142"
     },
     {
@@ -12287,7 +12282,7 @@
     },
     {
       "id": "2458",
-      "name": "Yucatan",
+      "name": "Yucatán",
       "country_id": "142"
     },
     {
